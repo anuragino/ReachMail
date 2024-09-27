@@ -29,7 +29,7 @@ It is built using Node.js, Express.js, and MongoDB with Agenda.js for task sched
 3. **Set up environment variables:** Sample given in .env.sample file
 4. **Run MongoDB:** If you're using a local MongoDB, ensure it is running `mongodb`
 5. **Start the server:** `node server.js`
-6. **Test the tool:** Use Postman or any API client to send a POST request to http://localhost:5000/api/send-email with email content and recipient details.
+6. **Test the tool:** Use Postman or any API client to send a POST request to http://localhost:5000/api/send-email or https://reachmail.vercel.app/api/send-email with email content and recipient details.
 
 
 ## Dependencies
